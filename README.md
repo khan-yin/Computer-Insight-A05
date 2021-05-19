@@ -33,7 +33,6 @@
 算法设计
 - pytorch1.5.0+cuda10.1
 - MTCNN架构人脸检测
-- ResNet18进行识别
 
 # 作品展示
 ![登录](https://img-blog.csdnimg.cn/20210518200154448.png)
