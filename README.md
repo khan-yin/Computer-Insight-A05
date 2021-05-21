@@ -17,8 +17,7 @@
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20210518195437526.png)
 # 团队成员
 前端：[Wu Ruiqi](https://github.com/a1050562365),[Zhu Dang](https://github.com/zd6454)  
-后端：[Yin Kehan](https://github.com/khannb)  
-算法：[Xu Yuanfei](https://github.com/XuYuanFei01)  
+后台：[Yin Kehan](https://github.com/khannb) ,[Xu Yuanfei](https://github.com/XuYuanFei01)  
 
 # 项目技术
 前端开发
